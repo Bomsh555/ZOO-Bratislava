@@ -1,15 +1,15 @@
 <html>
  <head>
-
         <title> ZOO Bratislava </title>
         <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
-<h1>ZOO Bratislava</h1>
+<font color="blue">ZOO Bratislava</h1>
 <h1>Ціна стартує з 7 EURO для дітей для дорослих 10 EURO</h1>
 <a href="Mlynská dolina 1A, 842 27 Bratislava, Slovakia">Геолакація</a>
 <img src="https://tse2.mm.bing.net/th?id=OIP.OBFUZ5qYwB-w5BWmr2dC-AHaD4&pid=Api&P=0&h=180">
-<p>Цей зоопарк розташований в Братиславі,відкритий в 1960 році.</p>
+<footer>
+<font color="green">Цей зоопарк розташований в Братиславі,відкритий в 1960 році.</p>
 <p>Площа складає 96 гектарів.</p>
     <p>Зараз я покажу вам тварин які там є</p>
     <p>Я хотівби почати з білого тигра</p>
@@ -23,6 +23,8 @@
 <p>Зе́бра — позатаксаномічна група коней, що складається з двох підродів. До підроду Hippotigris входять такі види, як гірська зебра і зебра Бурчелла, а до підроду Dolichohippus належить пустельна зебра (Equus grevyi). Гібридні форми між зебрами та свійськими кіньми називають зеброїдами; гібриди між зебрами та віслюками — зебрулами.</p>
 <p>Взагалі тут близько 1000 осіб різних тварин.</p>
 <p>Ще частиною парка є динопарк з макетами динозаврів в натуральну величину</p>
+<footer/>
 <img src="https://tse4.mm.bing.net/th?id=OIP.hqjXeHDfmzNYd3BUdEOsNwHaEK&pid=Api&P=0&h=180">
+  <body style="background:lightblue;font-family:sans-serif;">
     </body>
  </html>
